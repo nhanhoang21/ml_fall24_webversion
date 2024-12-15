@@ -13,7 +13,7 @@ Each algorithm listed above explored 2 different approaches:
 Here's the repository structure:
 
 ```
-ML_FALL2024/
+ml_fall2024/
 ├── data_analysis/
 │   ├── linear_regression.ipynb       
 │   ├── random_forest_case1.ipynb       
@@ -24,7 +24,7 @@ ML_FALL2024/
 ├── linear_regression_results/          # Picture of linear regression results
 ├── random_forest_results/              # Picture of random forest results                             
 ├── svr_results/                        # Picture of SVR results
-├── README.md                          # Project documentation
+├── README.md                           # Project documentation
 ```
 ## Setup Instructions
 
