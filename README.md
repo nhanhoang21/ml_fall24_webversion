@@ -10,7 +10,9 @@ Each algorithm listed above explored 2 different approaches:
 - Mechanically consistent: Using a provided equations from previous research (Linear Regression and SVR share the same equation)
 - Mechanically inconsistent: Using all input parameters in the dataset that's known to be influential when computing joint shear strength
 
-Here's the repository structure
+Here's the repository structure:
+
+```
 ML_FALL2024/
 ├── data_analysis/
 │   ├── linear_regression.ipynb       
@@ -23,7 +25,7 @@ ML_FALL2024/
 ├── random_forest_results/              # Picture of random forest results                             
 ├── svr_results/                        # Picture of SVR results
 ├── README.md                          # Project documentation
-
+```
 ## Setup Instructions
 
 ### Step 1: Unzip the file to your local machine
