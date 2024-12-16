@@ -1,5 +1,6 @@
 # Predicting Joint Shear Strength of Reinforced-Fiber Concrete(FRC)
 
+#### Caution: The input dataset has been removed as it's a team member effort throughout the years and intellectual property. The submitted zip file does have the database included.
 Develop machine learning-based models to predict the joint shear strength of FRC beam-to-column connections across various fiber types.
 Algorithms used are listed as the following:
 - Linear Regression
