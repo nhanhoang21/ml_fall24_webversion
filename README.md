@@ -31,7 +31,7 @@ ml_fall2024/
 
 ### Step 1: Unzip the file to your local machine
 
-### Step 2: Install dependencies
+### Step 2: Install dependencies (Python 3.9.6)
 `pip install -r requirements.txt`
 
 ### Step 3: Run the notebook
